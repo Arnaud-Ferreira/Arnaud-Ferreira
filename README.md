@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div align="center">
 <img style="width: 35%" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" />
 </div>
 <h1 style='font-family:"Roboto", sans-serif;'>👋 &nbsp; Hi, I'm Arnaud  </h1>
