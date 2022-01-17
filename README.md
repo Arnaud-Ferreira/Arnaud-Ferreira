@@ -12,8 +12,9 @@
 <a href="mailto:arnaud.ferreira18@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/arnaud-ferreira-201a0120a/"> </a>
+    <a href="https://www.linkedin.com/in/arnaud-ferreira-201a0120a/"> 
     <img style="height: 50%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
 </div>
 
 <h2 style='font-family:"Roboto", sans-serif;'>👨‍💻 &nbsp;About me</h2>
