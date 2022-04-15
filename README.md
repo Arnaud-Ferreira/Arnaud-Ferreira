@@ -22,6 +22,8 @@
 <p style="margin-top: 2em">I'm a junior Web Developer based in Paris, i have always been passionate about new technologies. Freshly graduated from the O'Clock School, during which i spent 6 months to apprehend the development centered on Javascript. </p>
 <p>Lifelong Learner, i'm constantly willing to learn new things. Completely open to discuss and make new project.</p> </p>I'm still consolidating my learning with the development of several projects that you will find on my profile 🛠️ </p>
 
+You also can check my portfolio [here](https://arnaud-ferreira.fr/)
+
 <div>
 <h2 style='font-family: "Roboto", sans-serif;'>💻 &nbsp;Technologies and Tools i use</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
